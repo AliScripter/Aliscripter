@@ -1,4 +1,4 @@
-<img src="https://uploadkon.ir/uploads/078c12_242.jpg" alt="header" align="center"/>
+<img src="https://uploadkon.ir/uploads/04d712_24b1-gh.jpg" alt="header" align="center"/>
 
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
