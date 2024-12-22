@@ -20,3 +20,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AliScripter&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+[![wakatime](https://wakatime.com/badge/user/250f79db-0cf4-4f2f-9186-669897a7487e.svg)](https://wakatime.com/@250f79db-0cf4-4f2f-9186-669897a7487e)
